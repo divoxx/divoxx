@@ -9,7 +9,7 @@ I'm a software developer who (among other things):
 * started dabbling with [Ruby](https://www.ruby-lang.org/) in 2003
 * started computer science program in 2004, at [PUC-RS](https://www.pucrs.br/)
 * was present when [DHH gave his first presentation on Rails](https://www.youtube.com/watch?v=Gzj723LkRJY), in 2005 at the FISL conference in Porto Alegre, Brazil
-* started working professionally with [Rails](https://rubyonrails.org/) in 2006/2007
+* started working professionally with [Rails](https://rubyonrails.org/) in 2006/2007 at Surgeworks
 * co-created the [RailsRumble](https://en.wikipedia.org/wiki/Rails_Rumble), a world-wide RubyOnRails virtual hackathon that helped with Rails dissimination 
 * learned and started working with [Go](https://go.dev/) in 2011
 * joined [Thoughtworks](https://www.thoughtworks.com/) in 2011
